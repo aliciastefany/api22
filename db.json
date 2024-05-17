@@ -1,0 +1,14 @@
+{
+  "casa": [
+    { "id": 1, "casa": "Grifinória", "url": "https://harrypotter.fandom.com/pt-br/wiki/Grifin%C3%B3ria" },
+    { "id": 2, "casa": "Sonserina", "url": "https://harrypotter.fandom.com/pt-br/wiki/Sonserina" },
+    { "id": 3, "casa": "Corvinal", "url": "https://harrypotter.fandom.com/pt-br/wiki/Corvinal" },
+    { "id": 4, "casa": "Lufa-Lufa", "url": "https://harrypotter.fandom.com/pt-br/wiki/Lufa-Lufa" }
+  ],
+  "fundadores": [
+    { "id": 1, "nome": "Godrico Gryffindor", "casa": 1 },
+    { "id": 2, "nome": "Salazar Slytherin", "casa": 2 },
+    { "id": 3, "nome": "Rowena Ravenclaw", "casa": 3 },
+    { "id": 4, "nome": "Helga Hufflepuff", "casa": 4 },
+  ]
+}
